@@ -29,6 +29,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #pragma once
 
 #include <cstring>
+#include <cstdint>
 #include <cstdlib>
 #include <iostream>
 #include <fstream>
